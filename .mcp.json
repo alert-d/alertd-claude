@@ -2,10 +2,7 @@
   "mcpServers": {
     "alertd": {
       "type": "http",
-      "url": "http://localhost:1776/mcp",
-      "headers": {
-        "Authorization": "eyJraWQiOiJzZWNyZXQiLCJpdiI6IlNySitVeXdRT0o5RHE0d3VHb3R0Z3c9PSJ9.MOgCq214e-GI6EYiXXSFPKYlc8WbDkypWRay_x3E2aqhvXEzphxwd6TiUQpFBnw1OtjoX6m33rdnbwTstazfh5UKz-7JKic38o9bnH4DkznhzSNEPu14omPj8A4LaBQLyjRJidCbahld9bAUG4ev_4IZEAXPtJeMIPjn_StfKtFbY-s0tuZofXRp3x4L_WDApo-b_-An39bbaUcmwloEX1sUw-AmxhdMN3HLSLN7oa20JPd3uZEHhjFs6BbWi8CMcCB7QTqb5PNDLeVbNSXAbvV47OvqvbkpifBYHuHYOHlpRsYn9PMH0Z6OTU1Pxsf1"
-      }
+      "url": "http://localhost:1776/mcp"
     }
   }
 }
