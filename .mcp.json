@@ -2,7 +2,7 @@
   "mcpServers": {
     "alertd": {
       "type": "http",
-      "url": "http://localhost:1776/mcp"
+      "url": "https://featureal2007createmcp.demo.alertd.ai/mcp"
     }
   }
 }
