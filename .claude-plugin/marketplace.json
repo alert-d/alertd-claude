@@ -1,0 +1,14 @@
+{
+  "name": "alertd",
+  "owner": {
+    "name": "alertd"
+  },
+  "plugins": [
+    {
+      "name": "alertd",
+      "source": "./",
+      "description": "AlertD MCP integration for Claude Code",
+      "version": "1.0.0"
+    }
+  ]
+}

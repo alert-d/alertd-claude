@@ -1,0 +1,6 @@
+{
+  "name": "alertd",
+  "version": "1.0.0",
+  "description": "AlertD MCP integration for Claude Code",
+  "mcpServers": "./.mcp.json"
+}
