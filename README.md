@@ -1,27 +1,25 @@
-
-
 ## Install
 
+### Option 1: Quick Install
+
 ```bash
-
-claude
-
-/plugin marketplace add alert-d/alertd-claude 
-
-/plugin install alertd 
-
+curl https://raw.githubusercontent.com/alert-d/alertd-claude/main/install.sh | sh
 ```
 
-exit claude
+### Option 2: Manual Install
 
 ```bash
-
 claude
 
-/alertd:setup
+/plugin marketplace add alert-d/alertd-claude
 
-/mcp
+/plugin install alertd
+```
 
-#authenticat
+### Setup
 
+Then open Claude Code and configure your domain:
+
+```
+/alertd:alertd-setup
 ```
