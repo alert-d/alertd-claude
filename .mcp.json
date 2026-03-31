@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "alertd": {
-      "type": "http",
-      "url": "https://REPLACE_WITH_YOUR_ALERTD_DOMAIN/mcp"
-    }
-  }
-}
