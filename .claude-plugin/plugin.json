@@ -2,19 +2,5 @@
   "name": "alertd",
   "version": "1.0.1",
   "description": "AlertD MCP integration for Claude Code",
-  "commands": [
-    {
-      "name": "alertd:setup",
-      "description": "Setup AlertD MCP integration for Claude Code",
-      "parameters": {
-        "type": "object",
-        "properties": {
-          "domain": {
-            "type": "string",
-            "description": "The domain of the AlertD instance"
-          }
-        }
-      }
-    }
-  ]
+  "skills": "./skills"
 }
