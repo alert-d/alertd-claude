@@ -1,7 +1,6 @@
 ---
 name: alertd-setup
 description: Configure your AlertD domain for the MCP server connection
-disable-model-invocation: true
 allowed-tools: Read, Edit
 ---
 
