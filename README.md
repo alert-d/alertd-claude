@@ -3,7 +3,7 @@
 ### Option 1: Quick Install
 
 ```bash
-curl https://raw.githubusercontent.com/alert-d/alertd-claude/main/install.sh | sh
+curl -H 'Cache-Control: no-cache' https://raw.githubusercontent.com/alert-d/alertd-claude/main/install.sh | sh
 ```
 
 ### Option 2: Manual Install

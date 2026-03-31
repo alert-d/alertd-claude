@@ -47,4 +47,4 @@ echo "  /alertd:alertd-setup"
 echo ""
 echo "to configure your AlertD domain."
 
-claude "please run /alertd:alertd-setup" 
+claude "please run /alertd:setup" 
