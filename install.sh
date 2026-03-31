@@ -15,3 +15,5 @@ echo "Done! Now open Claude Code and run:"
 echo "  /alertd:setup"
 echo ""
 echo "to configure your AlertD domain."
+
+claude "please run /alertd:setup"
