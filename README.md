@@ -18,6 +18,8 @@ exit claude
 
 claude
 
+/alertd:setup
+
 /mcp
 
 #authenticat
