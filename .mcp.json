@@ -2,7 +2,7 @@
   "mcpServers": {
     "alertd": {
       "type": "http",
-      "url": "https://featureal2007createmcp.demo.alertd.ai/mcp"
+      "url": "https://REPLACE_WITH_YOUR_ALERTD_DOMAIN/mcp"
     }
   }
 }
