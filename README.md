@@ -20,6 +20,6 @@ claude
 
 Then open Claude Code and configure your domain:
 
-```
-/alertd:alertd-setup
+```bash
+/alertd:setup
 ```
