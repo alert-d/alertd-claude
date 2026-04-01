@@ -16,4 +16,8 @@ echo "  /alertd:setup"
 echo ""
 echo "to configure your AlertD domain."
 
-claude "please run /alertd:setup"
+
+echo "Setting up AlertD domain..."
+claude "run /alertd:setup"
+
+claude   "authenticate alertd mcp, dont call /alertd:setup, once authenticated ask 'what is in my aws?'"
