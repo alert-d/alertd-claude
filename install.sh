@@ -18,6 +18,10 @@ echo "to configure your AlertD domain."
 
 
 echo "Setting up AlertD domain..."
-claude "run /alertd:setup"
+if [ -n "$1" ]; then
+  claude "run /alertd:setup and set domain as $1"
+else
+  claude "run /alertd:setup"
+fi
 
 claude   "authenticate alertd mcp, dont call /alertd:setup, once authenticated ask 'what is in my aws?'"
