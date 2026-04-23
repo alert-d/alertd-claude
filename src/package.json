@@ -1,0 +1,13 @@
+{
+    "name": "alertd-mcp",
+    "version": "1.0.0",
+    "description": "AlertD MCP integration for Claude Code",
+    "main": "src/index.js",
+    "scripts": {
+        "build:mcp": "bun build --compile --outfile ./cli.ts",
+        "build:mcp:all": "bun run ./build-mcp.ts"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
