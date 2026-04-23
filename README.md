@@ -23,3 +23,13 @@ Then open Claude Code and configure your domain:
 ```bash
 /alertd:setup
 ```
+
+
+## Download our Binary 
+
+to run on mac you will need to quarantine.
+```bash
+
+xattr -d com.apple.quarantine ./alertd-mcp-macos-arm64  
+
+```
