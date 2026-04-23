@@ -1,4 +1,10 @@
 {
+  "permissions": {
+    "allow": [
+      "Skill(alertd:setup)",
+      "mcp__alertd__aws_discovery"
+    ]
+  },
   "enabledMcpjsonServers": [
     "alertd"
   ]

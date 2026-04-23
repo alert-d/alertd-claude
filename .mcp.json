@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "alertd": {
+      "type": "http",
+      "url": "https://develop.demo.alertd.ai/mcp"
+    }
+  }
+}
